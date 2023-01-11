@@ -23,7 +23,7 @@ params:
   keywords: [Blog, Notes, Software]
   author: Fraser
   # author: ["Me", "You"] # multiple authors
-  images: ["/profile.png"]
+  images: ["/ai-budgie.png"]
   DateFormat: "Jan 2, 2006"
   defaultTheme: dark #auto # dark, light
   disableThemeToggle: false
