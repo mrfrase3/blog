@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chrome App on mrfrase3</title>
+    <link>https://3mr.fr/tags/chrome-app/</link>
+    <description>Recent content in Chrome App on mrfrase3</description>
+    <image>
+      <url>https://3mr.fr/profile.png</url>
+      <link>https://3mr.fr/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Sun, 10 Jun 2018 00:21:07 +0800</lastBuildDate><atom:link href="https://3mr.fr/tags/chrome-app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[superseded] Chromeduino</title>
+      <link>https://3mr.fr/projects/chromeduino/</link>
+      <pubDate>Sun, 10 Jun 2018 00:21:07 +0800</pubDate>
+      
+      <guid>https://3mr.fr/projects/chromeduino/</guid>
+      <description>A Chrome App which uses the serial API on the chrome browser to program AVR Arduinos with a serial bootloader that is avrdude compatible (Arduino Uno, Mega, etc)</description>
+    </item>
+    
+  </channel>
+</rss>
