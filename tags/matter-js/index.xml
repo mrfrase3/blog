@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog on mrfrase3</title>
-    <link>https://3mr.fr/blog/</link>
-    <description>Recent content in Blog on mrfrase3</description>
+    <title>Matter JS on mrfrase3</title>
+    <link>https://3mr.fr/tags/matter-js/</link>
+    <description>Recent content in Matter JS on mrfrase3</description>
     <image>
       <url>https://3mr.fr/profile.png</url>
       <link>https://3mr.fr/profile.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Wed, 17 May 2017 19:15:00 +0800</lastBuildDate><atom:link href="https://3mr.fr/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Making a Tix Clock</title>
-      <link>https://3mr.fr/blog/making-a-tix-clock/</link>
-      <pubDate>Wed, 17 May 2017 19:15:00 +0800</pubDate>
-      
-      <guid>https://3mr.fr/blog/making-a-tix-clock/</guid>
-      <description>Making a unique clock with some LED magic.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 19 Jan 2017 13:41:00 +0800</lastBuildDate><atom:link href="https://3mr.fr/tags/matter-js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visualising Gravity</title>
       <link>https://3mr.fr/blog/visualising-gravity/</link>
