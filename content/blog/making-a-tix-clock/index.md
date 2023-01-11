@@ -4,7 +4,7 @@ description: "Making a unique clock with some LED magic."
 date: 2017-05-17T19:15:00+08:00
 # draft: true
 # weight: 1
-# aliases: ["/first"]
+aliases: ["/post/making-a-tix-clock/"]
 tags: ["blog", "Making", "Electronics", "Laser Cutting", "Arduino"]
 categories: ["Makings"]
 author: ["Fraser"]
